@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "danyelhenrique",
+      "email": "danyelhenriquefidel@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "danyelhenrique",
+      "email": "danyelhenriquefidel@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "danyelhenrique",
+      "email": "danyelhenriquefidel@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "danyelhenrique",
+      "email": "dienifferfidel@ymail.com",
+      "id": 6
+    },
+    {
+      "name": "dd",
+      "email": "dienifferfidel@ymail.com",
+      "id": 7
+    }
+  ]
+}
